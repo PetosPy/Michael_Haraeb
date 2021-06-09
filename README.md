@@ -6,7 +6,7 @@ Hey, welcome to my world! I'm Michael from Namibia and I currently leave in Rio,
 • I'm currently doing the 100 Days of code Pro Python Course with cool and challenging projects to add to my portfolio!
 
 
-• Also doing a Git and Github crash course on the side, wordking of version control and all the cool stuff.
+• Also doing a Git and Github crash course on the side, working on version control and all the cool stuff.
 
 
 • Rome wasn't build in day they say, so I'm slowly and day by day building my castle.
