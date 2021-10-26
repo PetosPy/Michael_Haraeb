@@ -1,6 +1,6 @@
 ➼ Michael_Haraeb
 
-Hey, welcome to my world! I'm Michael from Namibia and I currently leave in Rio, Brazil.
+Hey, welcome to my world! I'm Michael from Namibia and I currently live in Rio, Brazil.
 
 
 • I'm currently doing the 100 Days of code Pro Python Course with cool and challenging projects to add to my portfolio!
